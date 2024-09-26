@@ -93,7 +93,8 @@ cv2.destroyAllWindows()
 
 ## Output:
 
-![WhatsApp Image 2024-09-26 at 11 42 06_96b1e1be](https://github.com/user-attachments/assets/cf612e0e-57b2-40d9-8e9c-6125d2aabeac)
+
+![WhatsApp Image 2024-09-26 at 11 46 54_3a3bda71](https://github.com/user-attachments/assets/7d794c4d-1e15-4eb0-9691-afa19242c67d)
 
 ## Result:
 We have successfully executed the Python code to detect real-time objects using webcam
